@@ -16,6 +16,10 @@ O "Cordel Moderno" foi criado como parte de um aprendizado prático de HTML e CS
 - *HTML5*: Estruturação do conteúdo.
 - *CSS3*: Estilização e responsividade.
 
+## Acesse o projeto aqui
+
+[-link para acessar o projeto - https://pablog-7.github.io/projeto-cordel/]
+
 ## Como Usar
 
 1. Faça o clone deste repositório:
