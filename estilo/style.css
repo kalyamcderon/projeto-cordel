@@ -64,6 +64,7 @@ section.normal {
 }
 section.imagem {
     background-attachment: fixed;
+    color: white;
 }
 
 @media (max-width: 768px) {
