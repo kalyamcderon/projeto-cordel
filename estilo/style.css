@@ -63,10 +63,14 @@ section.normal {
     color: black;
 }
 section.imagem {
-    background-color: black;
-    color: rgb(255, 255, 255);
-    box-shadow: 6px 6px 13px 0px black;
     background-attachment: fixed;
+}
+
+@media (max-width: 768px) {
+    section.imagem {
+        background-attachment: scroll;
+        color: white;
+    }
 }
 section.imagem > p {
     display: inline-block;
